@@ -1,4 +1,4 @@
-# All-about-CTF
+# CTF (Capture The Flags)
 
 ## What is a CTF?   
 
