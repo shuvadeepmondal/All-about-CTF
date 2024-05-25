@@ -12,7 +12,7 @@ CTF competitions generally fall into two main categories: Jeopardy-style and Att
 
 In Jeopardy-style CTFs, participants or teams solve challenges from a board, similar to the game show "Jeopardy!" Challenges are categorized and usually vary in difficulty and point value. Categories can include:
 
-- **Reverse Engineering**: Analyzing binary code to understand its functionality and find hidden information.
+- **Reverse Engineering**: Analyzing binary code to understand its functionality and find hidden information.[Blogs](https://shuvadeepmondal.blogspot.com/2024/05/introduction-to-reverse-engineering.html)
 - **Forensics**: Investigating digital artifacts such as disk images, memory dumps, and network captures to extract hidden data.
 - **Cryptography**: Solving puzzles related to encryption and decryption.
 - **Web Exploitation**: Finding vulnerabilities in web applications and exploiting them to retrieve flags.
