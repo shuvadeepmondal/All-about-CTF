@@ -1,5 +1,17 @@
 # CTF (Capture The Flags)
 
+## Table of Contents
+
+
+- [What is a CTF? ](#what-is-a-ctf)<br>
+- [Types of CTFs ](#types-of-ctfs)<br>
+
+## Categories
+
+Here is a list of the currently available categories of the project:<br>
+- [Cryptography](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Cryptography)
+
+
 ## What is a CTF?   
 
 Capture the Flag (CTF) is a type of cybersecurity competition where participants attempt to solve security-related challenges to find hidden flags (often strings of text) within files, networks, or systems. These flags serve as proof of solving a particular challenge. CTFs are a popular way for individuals to practice and demonstrate their skills in various aspects of cybersecurity.
