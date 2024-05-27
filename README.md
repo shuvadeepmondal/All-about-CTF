@@ -55,3 +55,29 @@ Thematic CTFs focus on specific areas of cybersecurity or incorporate story-driv
 
 These CTFs are designed for learning and may not be competitive. They often provide hints and learning resources, making them suitable for beginners or for training purposes.
 
+
+## Prerequisite for Capture The Flag (CTF) Competitions
+
+Here are the essential prerequisites to help you get started.
+
+1. Basics of Computer(Hardware , Software, Numeral Systems)
+
+2. Basics of Operating System (Mainly Linux OS and Shell)
+   
+[LinuxBasic Commands](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation) (For more)
+
+4. Moderate Debugging Skills
+
+5. Basics of Networking and Computer Security
+
+
+[Networking Basics](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/networking-basics.html)
+
+5. Programming Language(Basic C/C++) and Python Scripting Language.
+
+   
+6. Basics Understanding of Cryptography(Encryption/Decryption).
+ 
+8. Knowledge of Binary, HexaDecimal, ASCII, Hexdump and Others Representation of Computer Data.
+
+
