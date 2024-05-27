@@ -3,8 +3,8 @@
 ## Table of Contents
 
 
-- [What is a CTF? ](#what-is-a-ctf)<br>
-- [Types of CTFs ](#types-of-ctfs)<br>
+- [Introduction ](#what-is-a-ctf)<br>
+- [Types](#types-of-ctfs)<br>
 - [ Prerequisite](#prerequisite-for-capture-the-flagctf-competitions)<br>
 
 ## Categories
@@ -12,6 +12,7 @@
 Here is a list of the currently available categories of the project:<br>
 - [Cryptography](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Cryptography)
 - [Web-Exploitation](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Web-Exploitation)
+- [Forensics](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Forensics)
 
 ## What is a CTF?   
 
