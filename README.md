@@ -5,6 +5,7 @@
 
 - [What is a CTF? ](#what-is-a-ctf)<br>
 - [Types of CTFs ](#types-of-ctfs)<br>
+- [ Prerequisite](#prerequisite-for-capture-the-flag(CTF)-competitions)<br>
 
 ## Categories
 
@@ -56,7 +57,7 @@ Thematic CTFs focus on specific areas of cybersecurity or incorporate story-driv
 These CTFs are designed for learning and may not be competitive. They often provide hints and learning resources, making them suitable for beginners or for training purposes.
 
 
-## Prerequisite for Capture The Flag (CTF) Competitions
+## Prerequisite for Capture The Flag(CTF) Competitions
 
 Here are the essential prerequisites to help you get started.
 
