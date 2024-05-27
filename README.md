@@ -102,4 +102,11 @@ Here are the essential prerequisites to help you get started.
   <img src="https://contrib.rocks/image?repo=shuvadeepmondal/All-about-CTF" />
 </a>
 
+## License 🛡️
+
+ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/LICENSE) file for details.
+<br>
+
+###### If you find this repository useful, please consider giving it a ⭐️
+
 
