@@ -100,9 +100,10 @@ Here are the essential prerequisites to help you get started.
 
 
  ### Our Contributors 🤝
-<a href="https://github.com/shuvadeepmondal/All-about-CTF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shuvadeepmondal/All-about-CTF" />
+<a href="https://github.com/shuvadeepmondal/All-About-CTF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shuvadeepmondal/All-About-CTF" />
 </a>
+
 
 ## License 🛡️
 
