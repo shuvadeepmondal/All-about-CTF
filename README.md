@@ -1,5 +1,7 @@
 # CTF (Capture The Flags)
 
+<img src = "assests/images/readme.png" height ="400"  width ="1000">
+
 ## Table of Contents
 
 
@@ -25,22 +27,22 @@ CTF competitions generally fall into two main categories: Jeopardy-style and Att
 ### 1. Jeopardy-style CTFs
 
 In Jeopardy-style CTFs, participants or teams solve challenges from a board, similar to the game show "Jeopardy!" Challenges are categorized and usually vary in difficulty and point value. Categories can include:
-
-- **Reverse Engineering**: Analyzing binary code to understand its functionality and find hidden information.[Blogs](https://shuvadeepmondal.blogspot.com/2024/05/introduction-to-reverse-engineering.html)
-- **Forensics**: Investigating digital artifacts such as disk images, memory dumps, and network captures to extract hidden data.
-- **Cryptography**: Solving puzzles related to encryption and decryption.
-- **Web Exploitation**: Finding vulnerabilities in web applications and exploiting them to retrieve flags.
-- **Binary Exploitation**: Identifying and exploiting vulnerabilities in compiled binaries.
-- **Miscellaneous**: Any other challenges that don't fit into the above categories, often creative or humorous in nature.
-
+<pre>
+1. Reverse Engineering: Analyzing binary code to understand its functionality and find hidden information.
+2. Forensics: Investigating digital artifacts such as disk images, memory dumps, and network captures to extract hidden data.
+3. Cryptography: Solving puzzles related to encryption and decryption.
+4. Web Exploitation: Finding vulnerabilities in web applications and exploiting them to retrieve flags.
+5. Binary Exploitation: Identifying and exploiting vulnerabilities in compiled binaries.
+6. Miscellaneous: Any other challenges that don't fit into the above categories, often creative or humorous in nature.
+</pre>
 ### 2. Attack-Defense CTFs
 
 In Attack-Defense CTFs, teams are provided with a vulnerable network or system, and the goal is to defend their own services while attacking the services of other teams. This type of CTF simulates real-world cybersecurity scenarios and typically includes the following elements:
-
-- **Service Defense**: Keeping your own services running and secure against attacks.
-- **Service Attack**: Exploiting vulnerabilities in other teams' services to capture flags.
-- **Scoring**: Points are awarded for both successful defenses and attacks.
-
+<pre>
+1. Service Defense: Keeping your own services running and secure against attacks.
+2. Service Attack: Exploiting vulnerabilities in other teams' services to capture flags.
+3. Scoring: Points are awarded for both successful defenses and attacks.
+</pre>
 ### 3. Mixed CTFs
 
 Some CTF competitions combine elements of both Jeopardy-style and Attack-Defense formats. These mixed CTFs might start with a series of Jeopardy-style challenges to gain initial points or resources, followed by an Attack-Defense phase.
@@ -49,9 +51,9 @@ Some CTF competitions combine elements of both Jeopardy-style and Attack-Defense
 
 Thematic CTFs focus on specific areas of cybersecurity or incorporate story-driven elements. Examples include:
 
-- **Hardware CTFs**: Challenges related to hardware hacking and embedded systems.
-- **Social Engineering CTFs**: Scenarios where participants must use social engineering tactics to obtain information or access.
-- **Red vs. Blue CTFs**: Teams are divided into attackers (Red Team) and defenders (Blue Team), with the Blue Team tasked with protecting a network from simulated attacks by the Red Team.
+Hardware CTFs: Challenges related to hardware hacking and embedded systems.
+Social Engineering CTFs: Scenarios where participants must use social engineering tactics to obtain information or access.
+Red vs. Blue CTFs: Teams are divided into attackers (Red Team) and defenders (Blue Team), with the Blue Team tasked with protecting a network from simulated attacks by the Red Team.
 
 ### 5. Educational CTFs
 
@@ -61,26 +63,27 @@ These CTFs are designed for learning and may not be competitive. They often prov
 ## Prerequisite for Capture The Flag(CTF) Competitions
 
 Here are the essential prerequisites to help you get started.
-
+<pre>
 1. Basics of Computer(Hardware , Software, Numeral Systems)
 
 2. Basics of Operating System (Mainly Linux OS and Shell)
+</pre>  
+  [LinuxBasic Commands](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation)
+<pre>
+3. Moderate Debugging Skills (Tools & Techniques)
+
+4. Basics of the Networking (Models, Protocols, Tools)
+</pre>
+  [Networking Basics](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/networking-basics.html)
+<pre>
+5. Basics of the Computer Security (Cryptography, Web Securuty, Forensics)
    
-[LinuxBasic Commands](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation) (For more)
-
-4. Moderate Debugging Skills
-
-5. Basics of Networking and Computer Security
-
-
-[Networking Basics](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/networking-basics.html)
-
-5. Programming Language(Basic C/C++) and Python Scripting Language.
-
-   
-6. Basics Understanding of Cryptography(Encryption/Decryption).
+6. Programming Language(Basic C/C++) and Python Scripting Language.
+ 
+7. Basics Understanding of Cryptography(Encryption/Decryption).
  
 8. Knowledge of Binary, HexaDecimal, ASCII, Hexdump and Others Representation of Computer Data.
+</pre>
 
 
 
@@ -98,8 +101,7 @@ Here are the essential prerequisites to help you get started.
 
 
 
-
- ### Our Contributors 🤝
+ ### Contributors 🤝
 <a href="https://github.com/shuvadeepmondal/All-About-CTF/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shuvadeepmondal/All-About-CTF" />
 </a>
@@ -107,9 +109,9 @@ Here are the essential prerequisites to help you get started.
 
 ## License 🛡️
 
-ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/LICENSE) file for details.
+[LICENSE](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/LICENSE) file for details.
 <br>
 
-###### If you find this repository useful, please consider giving it a ⭐️
+##### If you find this repository useful, please consider giving it a ⭐️
 
 
