@@ -7,10 +7,11 @@
  - [Introduction ](#what-is-a-ctf)<br>
  - [Types](#types-of-ctfs)<br>
  - [ Prerequisite](#prerequisite-for-capture-the-flagctf-competitions)<br>
+ - [Categories of CTF Challenges](#categories-of-ctf-challenges)<br>
 
-## Categories
+## Available Resouces
 
-Here is a list of the currently available categories of the project:<br>
+Here is a list of the currently available categories of our resources: <br>
 - [Cryptography](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Cryptography)
 - [Web-Exploitation](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Web-Exploitation)
 - [Forensics](https://github.com/shuvadeepmondal/All-about-CTF/blob/main/Forensics)
