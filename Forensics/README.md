@@ -35,14 +35,13 @@
   Provides videos on digital forensics and incident response, including tool demonstrations and case studies.
 
 ## 3. Practice Platforms
-- **[Cyber Defenders](https://www.cyberdefenders.org/)**  
-  Offers beginner-friendly challenges and labs focused on digital forensics and incident response to help you practice and hone your skills.
+<br>
 
-- **[DFIR Training](https://www.dfir.training/)**  
-  Provides a collection of resources, including challenges, labs, and CTFs designed for digital forensics training.
-
-- **[Magnet Forensics Training](https://www.magnetforensics.com/training/)**  
-  Offers online courses and labs to practice using Magnet Forensics tools for various forensics investigations.
+| Logo | Name | Description | Link | 
+| :-: | :-: | :-: | :-: |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoD0bSVIPtWsBss2pZ8CMFHwFMuwwPRybgw&s" width="150"> | Cyber Defenders | Offers beginner-friendly challenges and labs focused on digital forensics and incident response to help you practice and hone your skills. | [Cyber Defenders](https://www.cyberdefenders.org/) |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScb3mGxdfXSORLRs63HcCdOm-45_mTAFuS0Q&s" width="150"> | DFIR Training | Provides a collection of resources, including challenges, labs, and CTFs designed for digital forensics training. | [DFIR Training](https://www.dfir.training/) |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkiKFtJvm6IIpwUJ27o7Qwh6LotfjcXNbwBAIJCRLX1Nr_UbMFdJoOgNm0j1yo4fHcg&usqp=CAU" width="150"> | Magnet Forensics Training | Offers online courses and labs to practice using Magnet Forensics tools for various forensics investigations. | [Magnet Forensics Training](https://www.magnetforensics.com/training/) |
 
 ## 4. Tools and Software
 - **[Autopsy](https://www.sleuthkit.org/autopsy/)**  

@@ -36,14 +36,13 @@
   Features videos explaining cryptographic concepts in an accessible manner.
 
 ## 3. Practice Platforms
-- **[CryptoPals](https://cryptopals.com/)**  
-  A popular platform offering cryptography challenges that gradually increase in difficulty. It covers various aspects of cryptographic techniques and their implementation.
-  
-- **[Hack The Box (HTB)](https://www.hackthebox.com/)**  
-  HTB includes cryptography challenges as part of its broader CTF-style challenges. It's a great way to practice in a gamified environment.
-  
-- **[Cryptohack](https://cryptohack.org/)**  
-  An interactive platform focused solely on cryptography challenges. It offers a range of puzzles from basic to advanced levels.
+<br>
+
+| Logo | Name | Description | Link | 
+| :-: | :-: | :-: | :-: |
+| <img src="https://opengraph.githubassets.com/2dac56f835d8a5750491737d559ac2f432c770eb45b54a30b19e23085e1ad4fd/Orelbenr/cryptopals-writeups" width="150"> | CryptoPals | A popular platform offering cryptography challenges that gradually increase in difficulty. It covers various aspects of cryptographic techniques and their implementation. | [CryptoPals](https://cryptopals.com/) |
+| <img src="https://www.hackthebox.com/images/logo-htb.svg" width="150"> | Hack The Box | HTB includes cryptography challenges as part of its broader CTF-style challenges. It's a great way to practice in a gamified environment. | [Hack The Box](https://www.hackthebox.com) |
+| <img src="https://cryptohack.org/static/img/logo.svg" width="150"> | Cryptohack | An interactive platform focused solely on cryptography challenges. It offers a range of puzzles from basic to advanced levels. | [Cryptohack](https://cryptohack.org/) |
 
 ## 4. Tools and Software
 - **[Hashcat](https://hashcat.net/hashcat/)**  
