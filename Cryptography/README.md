@@ -38,9 +38,6 @@
 ## 3. Practice Platforms
 <br>
 
-### 🔐 Practice Platforms 🔐
-<br>
-
 | Logo | Name | Description | Link | 
 | :-: | :-: | :-: | :-: |
 | <img src="https://opengraph.githubassets.com/2dac56f835d8a5750491737d559ac2f432c770eb45b54a30b19e23085e1ad4fd/Orelbenr/cryptopals-writeups" width="150"> | CryptoPals | A popular platform offering cryptography challenges that gradually increase in difficulty. It covers various aspects of cryptographic techniques and their implementation. | [CryptoPals](https://cryptopals.com/) |
