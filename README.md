@@ -205,6 +205,26 @@ In these challenges, the flag is basically hidden on social media platforms. In 
 which automatically perform tasks.
 </pre>
 
+<pre><h3 align="center">Below Are Useful Links of Platforms For Beginners's CTF Challenges Practice</h3></pre>
+
+1. [HackThisSite](https://hackthissite.org/)
+2. [Overthewire](http://overthewire.org/wargames/)
+3. [HackTheBox](https://www.hackthebox.eu/)
+4. [VulnHub](https://www.vulnhub.com/)
+5. [PenTesterLab](https://pentesterlab.com/)
+6. [HackThis](https://www.hackthis.co.uk/)<br>
+7. [ShelterLabs](https://shellterlabs.com/pt/)<br>
+8. [rOOtMe](https://www.root-me.org/)<br>
+9. [Zenk](https://www.zenk-security.com/epreuves.php)<br>
+10. [w3challs](https://w3challs.com/)<br>
+11. [newbieContest](https://www.newbiecontest.org/)<br>
+12. [picoCTF](https://picoctf.com/)<br>
+13. [pwnable](https://pwnable.kr/play.php)<br>
+
+
+
+<h1 align="center">Thanking For Watching !! AND Good Luck All Beginners for CTFs </h1><centre>
+
 
 
 
